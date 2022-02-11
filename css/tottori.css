@@ -10,9 +10,9 @@ header{
     z-index: 1;
 }
 
-body{
+/* body{ */
     /* height: 1000p\x; */
-}
+/* } */
 
 ul{
     list-style-type: none;
@@ -42,9 +42,9 @@ li{
     /* vertical-align: text-top; */
 }
 
-.menu{
+/* .menu{ */
     /* vertical-align: bottom; */
-}
+/* } */
 
 .compa{
     color: white;
