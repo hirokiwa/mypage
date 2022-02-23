@@ -108,12 +108,12 @@ li{
 
 .thank{
     position: absolute;
-    top: 480px;
-    left: 250px;
+    top: 150px;
+    left: 100px;
     /* margin: 0px auto; */
     font-size: 60px;
     font-family: "Yu Mincho", "游明朝";
-    color: cornsilk;
+    color: #808000;
     animation: slideIn 4s forwards;
 }
 
